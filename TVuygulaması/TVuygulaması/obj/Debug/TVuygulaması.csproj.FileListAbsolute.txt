@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\Beyza'nın Klasörü\TVuygulaması\TVuygulaması\bin\Debug\TVuygulaması.exe.config
+C:\Users\pc\Desktop\Beyza'nın Klasörü\TVuygulaması\TVuygulaması\bin\Debug\TVuygulaması.exe
+C:\Users\pc\Desktop\Beyza'nın Klasörü\TVuygulaması\TVuygulaması\bin\Debug\TVuygulaması.pdb
+C:\Users\pc\Desktop\Beyza'nın Klasörü\TVuygulaması\TVuygulaması\obj\Debug\TVuygulaması.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Beyza'nın Klasörü\TVuygulaması\TVuygulaması\obj\Debug\TVuygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Beyza'nın Klasörü\TVuygulaması\TVuygulaması\obj\Debug\TVuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Beyza'nın Klasörü\TVuygulaması\TVuygulaması\obj\Debug\TVuygulaması.exe
+C:\Users\pc\Desktop\Beyza'nın Klasörü\TVuygulaması\TVuygulaması\obj\Debug\TVuygulaması.pdb
